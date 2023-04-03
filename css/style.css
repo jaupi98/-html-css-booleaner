@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.grafica{
+    
+    padding-left: 250px;
+    padding-right: 250px;
+}
+ /* modifichaimo il logo */
+ #logo{
+     width: 250px;
+    padding-top: 50px;
+ }
+ .intestazione{
+    background-image: url(../img/pattern.png);
+     background-size: 30%;
+    background-color: aqua;
+ }
+ h1{
+    font-size: 50px;
+ }
+ p{
+    font: inherit;
+    font-size: 20px;
+ }
+.sezione{
+    padding-top: 25px;
+}
+ul{
+    padding-left: 20px;
+}
