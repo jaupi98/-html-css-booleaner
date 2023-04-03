@@ -5,8 +5,8 @@
 }
 .grafica{
     
-    padding-left: 250px;
-    padding-right: 250px;
+    padding-left: 300px;
+    padding-right: 300px;
 }
  /* modifichaimo il logo */
  #logo{
@@ -31,3 +31,17 @@
 ul{
     padding-left: 20px;
 }
+table {
+    border-collapse: collapse;   
+}
+ /* mpostiamo i colori delle immagini  */
+ .grigio{
+    color: darkgray;
+ }
+#azzurro{
+    color: aqua;
+}
+.giallo{
+    background-color: yellow;
+}
+        
