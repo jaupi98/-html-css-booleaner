@@ -16,7 +16,7 @@
  .intestazione{
     background-image: url(../img/pattern.png);
      background-size: 30%;
-    background-color: aqua;
+    background-color: rgb(0, 140, 255);
  }
  h1{
     font-size: 50px;
@@ -44,4 +44,16 @@ table {
 .giallo{
     background-color: yellow;
 }
-        
+thead{
+    background-color: blue;
+    color: white;
+}
+.dispari{
+background-color: aqua;
+   }     
+.pari{
+    background-color: white;
+}
+.stile{
+    width: 50%;
+}
